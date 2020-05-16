@@ -5,6 +5,9 @@ This project is about Neutralizing the high level of ignorance and illiteracy am
 Due to inadequate financing, poor infrastructure and technology, lack of public awareness on good sanitary practices, inadequate legal and regulatory laws. 
 ## IT support the goal 3 and goal 11 of the SDGs goals
 
+## BETTER HEALTH - BETTER WORK - BETTER LIFE (https://github.com/toure5013/better-h-better-w-better-l)
+
+
 # Usage:
 
 We are going to create an application with two basic types of users.
